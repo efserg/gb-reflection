@@ -1,0 +1,4 @@
+model: BMW
+engine_power: 250
+fuel_capacity: 10
+max_speed: 200
